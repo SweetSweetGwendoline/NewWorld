@@ -122,11 +122,35 @@ https://newworldfans.com/
 
 ✨ [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2)
 
+**Gathering Requirements**<br/>
+```TODO```
+
+**Resource Requirements**<br/>
+```TODO```
+
 ✨ [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3)
+
+**Gathering Requirements**<br/>
+```TODO```
+
+**Resource Requirements**<br/>
+```TODO```
 
 ✨ [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4)
 
+**Gathering Requirements**<br/>
+```TODO```
+
+**Resource Requirements**<br/>
+```TODO```
+
 ✨ [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5)
+
+**Gathering Requirements**<br/>
+```TODO```
+
+**Resource Requirements**<br/>
+```TODO```
 
 
 ## ⭐ Side Quests
