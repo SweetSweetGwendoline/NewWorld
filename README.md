@@ -101,8 +101,6 @@ https://newworldfans.com/
 
 
 
-<a name="Quests"/>
-
 # Quests
 
 ## [🌟 Main Story](https://nwdb.info/db/quests/main-story/page/1?sort=level_asc)
@@ -159,6 +157,7 @@ https://newworldfans.com/
 ![Curse of Brightwood](https://i.imgur.com/fQaPRSC.png)
 
 
+
 # 🛡️ Faction Gear
 Attributes of Faction armor can be changed with Faction Seals.<br/>
 *This process is permanent and will destroy any socketed gems.*
@@ -170,8 +169,12 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 |[Brigand](https://nwdb.info/db/item/MarauderSeal_Brigand)|[Brigand](https://nwdb.info/db/item/SyndicateSeal_Brigand)|[Brigand](https://nwdb.info/db/item/CovenantSeal_Brigand)|
 |[Babarian](https://nwdb.info/db/item/MarauderSeal_Barbarian)|[Babarian](https://nwdb.info/db/item/SyndicateSeal_Barbarian)|[Babarian](https://nwdb.info/db/item/CovenantSeal_Barbarian)|
 
+
+
 # 🛡️ Item Affixes
 ![Item Affixes](https://i.imgur.com/hZj0UEw.png)
+
+
 
 # 🌿 Herb Plants
 
@@ -195,4 +198,18 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 | [Salt](https://nwdb.info/db/item/SaltT1) |  |  |  |  |  |  |
 | [Basil](https://nwdb.info/db/item/BasilT1) |  |  |  |  |  |  |
 | [Garlic](https://nwdb.info/db/item/GarlicT1) |  |  |  |  |  |  |
+
+
+
+# 💎 Gems
+
+Weapon damage scaling can be changed with gems
+
+|   |   |
+|---|---|
+|[Amethyst](https://nwdb.info/db/item/AmberCutT4)|INT (Nature)|
+|[Aquamarine](https://nwdb.info/db/item/AquamarineCutT4)|INT (Ice)|
+|[Ruby](https://nwdb.info/db/item/RubyCutT4)|INT (Fire)|
+|[Sapphire](https://nwdb.info/db/item/SapphireCutT4)|INT (Arcane)|
+|[Topaz](https://nwdb.info/db/item/TopazCutT4)|INT (Lightning)|
 
