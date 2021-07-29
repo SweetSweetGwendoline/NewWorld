@@ -144,7 +144,11 @@ https://www.newworld.com/de-de/support/server-status
 
 ✨ [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2)
 
+```No Requirements```
+
 ✨ [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3)
+
+```No Requirements```
 
 ✨ [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4)
 
