@@ -71,14 +71,14 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 100**
 
-🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level 40)
+🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level 35-40)
 
 **Resource Requirements**<br/>
 ```TODO```
 
 **Level 150**
 
-🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level 60)
+🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level 55-60)
 
 **Resource Requirements**<br/>
 ```TODO```
@@ -105,14 +105,14 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 100**
 
-👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / Level 40)
+👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / Level 35-40)
 
 **Resource Requirements**<br/>
 ```TODO```
 
 **Level 150**
 
-👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level 60)
+👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level 55-60)
 
 **Resource Requirements**<br/>
 ```TODO```
