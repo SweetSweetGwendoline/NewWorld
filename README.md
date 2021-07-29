@@ -173,3 +173,19 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 # 🛡️ Item Affixes
 ![Item Affixes](https://i.imgur.com/hZj0UEw.png)
 
+# 🌿 Herb Plants
+
+| Everfall | Windsward | First Light | Monarch's Bluffs | Cutlass Keys | Brightwood | Weaver's Fen | 
+|---|---|---|---|---|---|---|
+| [Garlic](https://nwdb.info/db/item/GarlicT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Dill](https://nwdb.info/db/item/DillT1) | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Nutmeg](https://nwdb.info/db/item/NutmegT1) |
+| [Basil](https://nwdb.info/db/item/BasilT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) |
+| [Sage](https://nwdb.info/db/item/SageT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) | [Sage](https://nwdb.info/db/item/SageT1) |   |
+| [Salt](https://nwdb.info/db/item/SaltT1) |  | [Saffron](https://nwdb.info/db/item/SaffronT1) |  |  | [Salt](https://nwdb.info/db/item/SaltT1) |  |
+|  |  |  |  |  | [Paprika](https://nwdb.info/db/item/PaprikaT1) |  |
+
+| Restless Shore | Mourningdale | Great Cleave | Edengrove | Ebonscale Reach | Reekwater | Shattered Mountain |
+|---|---|---|---|---|---|---|
+| [Rosemary](https://nwdb.info/db/item/RosemaryT1) | [Dill](https://nwdb.info/db/item/DillT1) | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Dill](https://nwdb.info/db/item/DillT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) |
+| [Oregano](https://nwdb.info/db/item/OreganoT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |
+|  | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Sugar](https://nwdb.info/db/item/SugarT1) |   |
+|  | [Parsley](https://nwdb.info/db/item/ParsleyT1) |  |  |  | [Thyme](https://nwdb.info/db/item/ThymeT1) |  |
