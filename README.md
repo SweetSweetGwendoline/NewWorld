@@ -30,6 +30,9 @@ https://nwdb.info/
 ## [🦚 New World Fans](https://newworldfans.com/)
 https://newworldfans.com/
 
+## [⚡ Server Status](https://www.newworld.com/de-de/support/server-status)
+https://www.newworld.com/de-de/support/server-status
+
 
 
 <a name="Crafting"/>
