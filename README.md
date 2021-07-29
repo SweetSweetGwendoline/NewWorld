@@ -71,7 +71,10 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 100**
 
-:axe: [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (+ Gather Speed)
+🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (+ Gather Speed)
+
+**Resource Requirements**<br/>
+```TODO```
 
 
 ## 🛡️ Armoring
@@ -82,6 +85,8 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 50**
 
+👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level 17)
+
 **Resource Requirements**
 
 - 1144 [Fibers](https://nwdb.info/db/item/FiberT1)
@@ -90,11 +95,12 @@ https://www.newworld.com/de-de/support/server-status
 
 ➡️ 52 [Tier II Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2)
 
-👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level 17)
-
 **Level 100**
 
 👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+250 Encumbrance)
+
+**Resource Requirements**<br/>
+```TODO```
 
 ---
 
