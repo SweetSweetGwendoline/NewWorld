@@ -207,7 +207,7 @@ Weapon damage scaling can be changed with gems
 
 |   |   |
 |---|---|
-|[Amethyst](https://nwdb.info/db/item/AmberCutT4)|INT (Nature)|
+|[Amethyst](https://nwdb.info/db/item/AmberCutT4)|FOC (Nature)|
 |[Aquamarine](https://nwdb.info/db/item/AquamarineCutT4)|INT (Ice)|
 |[Ruby](https://nwdb.info/db/item/RubyCutT4)|INT (Fire)|
 |[Sapphire](https://nwdb.info/db/item/SapphireCutT4)|INT (Arcane)|
