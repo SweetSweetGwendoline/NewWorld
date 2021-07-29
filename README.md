@@ -129,7 +129,7 @@ https://www.newworld.com/de-de/support/server-status
 
 ## [🌟 Main Story](https://nwdb.info/db/quests/main-story/page/1?sort=level_asc)
 
-✨ [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1)
+✨ [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1) (Level 10)
 
 **Gathering Requirements**
 
@@ -144,19 +144,7 @@ https://www.newworld.com/de-de/support/server-status
 
 ✨ [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2)
 
-**Gathering Requirements**<br/>
-```TODO```
-
-**Resource Requirements**<br/>
-```TODO```
-
 ✨ [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3)
-
-**Gathering Requirements**<br/>
-```TODO```
-
-**Resource Requirements**<br/>
-```TODO```
 
 ✨ [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4)
 
