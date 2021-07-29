@@ -1,5 +1,38 @@
-# Crafting
+# General
 
+## [🗺️ Map](https://www.newworld-map.com/)
+https://www.newworld-map.com/
+
+**Recommended Filter**
+- Hide All
+
+**🏙️ Cities and Others**
+- Cities
+- Regions
+- Spirit Shrine
+
+**🌿 Plants**
+- Dyes
+
+**🐟 Fishing**
+- Hotspot (Rare)
+- Hotspot (Secret)
+
+**🐙 Monsters**
+- Named
+
+## 🗺️ Region Level
+![Region Level](https://i.redd.it/ianptacqkwc71.png)
+
+## [🗃️Item Database](https://nwdb.info/db/items/page/1)
+https://nwdb.info/
+
+## [🦚 New World Fans](https://newworldfans.com/)
+https://newworldfans.com/
+
+
+
+# Crafting
 
 ## ⚙️ Engineering
 
