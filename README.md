@@ -38,10 +38,12 @@ https://newworldfans.com/
 
 ## ⚙️ Engineering
 
-### Level 0
+**Level 0**
+
 [🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (+150% Gather Speed)
 
-### Level 50
+**Level 50**
+
 [🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (+250% Gather Speed)
 
 **Resource Requirements**
@@ -64,16 +66,19 @@ https://newworldfans.com/
 
 ➡️ 103 [Tier II Iron Arrow](https://nwdb.info/db/item/ArrowT2)
 
-### Level 100
+**Level 100**
+
 :axe: [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (+ Gather Speed)
 
 
 ## 🛡️ Armoring
 
-### Level 0
+**Level 0**
+
 👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / Level 6)
 
-### Level 50
+**Level 50**
+
 **Resource Requirements**
 
 - 1144 [Fibers](https://nwdb.info/db/item/FiberT1)
@@ -84,7 +89,8 @@ https://newworldfans.com/
 
 👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level 17)
 
-### Level 100
+**Level 100**
+
 👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+250 Encumbrance)
 
 ---
@@ -127,3 +133,19 @@ https://newworldfans.com/
 
 ### [Curse of Brightwood](https://nwdb.info/db/quest/0204_0101_UndyingAppetite)
 ![Curse of Brightwood](https://i.imgur.com/fQaPRSC.png)
+
+
+# 🛡️ Faction Gear
+Attributes of Faction armor can be changed with Faction Seals.<br/>
+*This process is permanent and will destroy any socketed gems.*
+
+| 🟢  | 🟣  | 🟡  | 
+|---|---|---|
+|[Cleric](https://nwdb.info/db/item/MarauderSeal_Cleric)|[Cleric](https://nwdb.info/db/item/SyndicateSeal_Cleric)|[Cleric](https://nwdb.info/db/item/CovenantSeal_Cleric)|
+|[Occultist](https://nwdb.info/db/item/MarauderSeal_Occultist)|[Occultist](https://nwdb.info/db/item/SyndicateSeal_Occultist)|[Occultist](https://nwdb.info/db/item/CovenantSeal_Occultist)|
+|[Brigand](https://nwdb.info/db/item/MarauderSeal_Brigand)|[Brigand](https://nwdb.info/db/item/SyndicateSeal_Brigand)|[Brigand](https://nwdb.info/db/item/CovenantSeal_Brigand)|
+|[Babarian](https://nwdb.info/db/item/MarauderSeal_Barbarian)|[Babarian](https://nwdb.info/db/item/SyndicateSeal_Barbarian)|[Babarian](https://nwdb.info/db/item/CovenantSeal_Barbarian)|
+
+# 🛡️ Item Affixes
+![Item Affixes](https://i.imgur.com/hZj0UEw.png)
+
