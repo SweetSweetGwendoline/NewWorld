@@ -43,11 +43,11 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 0**
 
-[🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (+150% Gather Speed)
+[🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (125% Gather Speed / Level 5-10)
 
 **Level 50**
 
-[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (+250% Gather Speed)
+[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / Level 15-20)
 
 **Resource Requirements**
 
@@ -71,21 +71,29 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 100**
 
-🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (+ Gather Speed)
+🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level 40)
 
 **Resource Requirements**<br/>
 ```TODO```
+
+**Level 150**
+
+🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level 60)
+
+**Resource Requirements**<br/>
+```TODO```
+
 
 
 ## 🛡️ Armoring
 
 **Level 0**
 
-👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / Level 6)
+👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / Level 5-10)
 
 **Level 50**
 
-👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level 17)
+👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level 15-20)
 
 **Resource Requirements**
 
@@ -97,7 +105,14 @@ https://www.newworld.com/de-de/support/server-status
 
 **Level 100**
 
-👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+250 Encumbrance)
+👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / Level 40)
+
+**Resource Requirements**<br/>
+```TODO```
+
+**Level 150**
+
+👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level 60)
 
 **Resource Requirements**<br/>
 ```TODO```
