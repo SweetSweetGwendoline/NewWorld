@@ -47,13 +47,11 @@ https://www.newworld.com/de-de/support/server-status
 
 `Engineering 50`
 
-[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / Level `15`-`20`)
-
-**Resource Requirements**
-
-| 93 [Tier II Iron Hatchet](https://nwdb.info/db/item/1hHatchetT2) | 55 [Tier II Treated Wood Spear](https://nwdb.info/db/item/2hSpearT2) | 103 [Tier II Iron Arrow](https://nwdb.info/db/item/ArrowT2) |
+| 93 [Iron Hatchet](https://nwdb.info/db/item/1hHatchetT2) (Tier II) | 55 [Treated Wood Spear](https://nwdb.info/db/item/2hSpearT2) (Tier II) | 103 [Iron Arrow](https://nwdb.info/db/item/ArrowT2) (Tier II) |
 |:---|:---|:---|
 | 2640 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>774 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>372 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 2200 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>1100 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>440 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 1648 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>824 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>309 [Feathers](https://nwdb.info/db/item/FeatherT1) |
+
+[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / Level `15`-`20`)
 
 `Engineering 100`
 
@@ -73,15 +71,17 @@ https://www.newworld.com/de-de/support/server-status
 
 `Armoring 50`
 
-👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level `15`-`20`)
-
-**Resource Requirements**
-
-| 52 [Tier II Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2) |
+| 52 [Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2) (Tier II) |
 |:---|
 | 1144 [Fibers](https://nwdb.info/db/item/FiberT1)<br/>624 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>104 [Iron Ore](https://nwdb.info/db/item/OreT1) |
 
+👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level `15`-`20`)
+
 `Armoring 100`
+
+| 50 [Rugged Fur Gloves](https://nwdb.info/db/item/MediumHands_FurT3) (Tier III) |
+|:---|
+| 2552 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>1276 [Iron Ore](https://nwdb.info/db/item/OreT1)<br/>960 [Fur](https://nwdb.info/db/item/FurT3) |
 
 👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / Level `35`-`40`)
 
