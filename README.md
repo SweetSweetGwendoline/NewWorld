@@ -226,6 +226,26 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 
 
 
+# 🎨 Dyes
+
+| Color | Region |
+|---|---|
+| [Magenta](https://nwdb.info/db/item/PigmentMagenta) | First Light |
+| [Black](https://nwdb.info/db/item/PigmentBlack) | Brightwood |
+| [Orange](https://nwdb.info/db/item/PigmentOrange) | Everfall |
+| [Turquoise](https://nwdb.info/db/item/PigmentTurquoise) | Windsward |
+| [Yellow](https://nwdb.info/db/item/PigmentYellow) | Cutlass Keys / Mourning Dale |
+| [Cyan](https://nwdb.info/db/item/PigmentCyan) | Reekwater / Edengrove  |
+| [Green](https://nwdb.info/db/item/PigmentGreen) | Monarch's Bluff |
+| [Brown](https://nwdb.info/db/item/PigmentBrown) | Weaver's Fenn |
+| [Violet](https://nwdb.info/db/item/PigmentViolet) | Ebonscale Reach |
+| [White](https://nwdb.info/db/item/PigmentWhite) | Great Cleave |
+| [Red](https://nwdb.info/db/item/PigmentRed) | Shattered Mountain |
+| [Blue](https://nwdb.info/db/item/PigmentBlue) | Restless Shore |
+| [Purple](https://nwdb.info/db/item/PigmentPurple) | |
+
+
+
 # 💎 Gems
 
 Weapon damage scaling can be changed with gems
