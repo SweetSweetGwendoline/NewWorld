@@ -133,6 +133,8 @@ https://www.newworld.com/de-de/support/server-status
 
 ✨ [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1) (Level 10)
 
+```Level 10```
+
 **Gathering Requirements**
 
 - Level 30 Harvesting<br/>
@@ -146,28 +148,19 @@ https://www.newworld.com/de-de/support/server-status
 
 ✨ [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2)
 
-```No Requirements```
+```Level 20```
 
 ✨ [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3)
 
-```No Requirements```
+```Level 30```
 
 ✨ [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4)
 
-**Gathering Requirements**<br/>
-```TODO```
-
-**Resource Requirements**<br/>
-```TODO```
+```Level 40```
 
 ✨ [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5)
 
-**Gathering Requirements**<br/>
 ```TODO```
-
-**Resource Requirements**<br/>
-```TODO```
-
 
 ## ⭐ Side Quests
 
