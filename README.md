@@ -119,7 +119,9 @@ https://www.newworld.com/de-de/support/server-status
 
 ---
 
-[📝 Crafting Calculations](https://docs.google.com/spreadsheets/d/12YQAIEIVjVhwQbYKOiEM3MxQ9OW6s6zM/edit#gid=591020729)
+[📝 Crafting Calculations](https://docs.google.com/spreadsheets/d/12YQAIEIVjVhwQbYKOiEM3MxQ9OW6s6zM/)
+
+[📝 Professions Recipes](https://docs.google.com/spreadsheets/d/139UvmN9GQusBQbomfw_MgqdDLxtpJGlcviC2AOMZcVQ/)
 
 ---
 
