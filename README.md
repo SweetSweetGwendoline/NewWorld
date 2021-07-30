@@ -136,7 +136,7 @@ https://www.newworld.com/de-de/support/server-status
 **Requirements**
 
 | Level | Gathering | Resource |
-|---|---|---|
+|:---:|:---:|:---:|
 | ```10``` | Level 30 Harvesting<br/>Level 10 Mining | 3 [Rivercress Seed](https://nwdb.info/db/item/SeedLotusPlantT1)<br/>3 [Petalcap](https://nwdb.info/db/item/PetalcapT1)<br/>5 [Silver Ingot](https://nwdb.info/db/item/IngotPreciousT1) |
 
 ✨ [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2)
@@ -144,7 +144,7 @@ https://www.newworld.com/de-de/support/server-status
 **Requirements**
 
 | Level |
-|---|
+|:---:|
 | ```20``` |
 
 ✨ [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3)
@@ -152,7 +152,7 @@ https://www.newworld.com/de-de/support/server-status
 **Requirements**
 
 | Level |
-|---|
+|:---:|
 | ```30``` |
 
 ✨ [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4)
@@ -160,7 +160,7 @@ https://www.newworld.com/de-de/support/server-status
 **Requirements**
 
 | Level |
-|---|
+|:---:|
 | ```40``` |
 
 ✨ [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5)
