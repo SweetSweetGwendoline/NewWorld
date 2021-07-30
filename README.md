@@ -176,6 +176,29 @@ https://www.newworld.com/de-de/support/server-status
 
 
 
+# 🏰 Dungeons
+
+`25` **Amarine Excavation**
+
+[🗝️ Key](https://newworldfans.com/db/item/amrine-tuning-orb-749306)
+
+`35` **Starstone Barrows**
+
+[🗝️ Key](https://newworldfans.com/db/item/starstone-tuning-orb-68b355)
+
+`45` **The Depths**
+
+[🗝️ Key](https://newworldfans.com/db/item/depths-tuning-orb-2a4821)
+
+`55` **Dynasty Shipyard**
+
+[🗝️ Key](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b)
+
+`65` **Lazarus Instrumentality**
+
+`65` **Garden of Genesis**
+
+
 # 🛡️ Faction Gear
 Attributes of Faction armor can be changed with Faction Seals.<br/>
 *This process is permanent (can only be done once) and will destroy any socketed gems.*
