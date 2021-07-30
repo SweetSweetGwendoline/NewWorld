@@ -185,8 +185,8 @@ https://www.newworld.com/de-de/support/server-status
 > Attributes of Faction armor can be changed with Faction Seals.<br/>
 > *This process is permanent (can only be done once) and will destroy any socketed gems.*
 
-| 🟢  | 🟣  | 🟡  | 
-|---|---|---|
+| 🟢 | 🟣 | 🟡 | 
+|:---:|:---:|:---:|
 |[Cleric](https://nwdb.info/db/item/MarauderSeal_Cleric)|[Cleric](https://nwdb.info/db/item/SyndicateSeal_Cleric)|[Cleric](https://nwdb.info/db/item/CovenantSeal_Cleric)|
 |[Occultist](https://nwdb.info/db/item/MarauderSeal_Occultist)|[Occultist](https://nwdb.info/db/item/SyndicateSeal_Occultist)|[Occultist](https://nwdb.info/db/item/CovenantSeal_Occultist)|
 |[Brigand](https://nwdb.info/db/item/MarauderSeal_Brigand)|[Brigand](https://nwdb.info/db/item/SyndicateSeal_Brigand)|[Brigand](https://nwdb.info/db/item/CovenantSeal_Brigand)|
