@@ -213,7 +213,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 | Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |
 | Windsward | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) |   |   |
 | First Light | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1)  | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) |   |
-| Monarch's Bluffs | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) |   |   |
+| Monarch's Bluffs | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |
 | Cutlass Keys | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |   |
 | Brightwood | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) |
 | Weaver's Fen | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) |   |   |   |
