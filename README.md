@@ -190,7 +190,14 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 
 
 # 🛡️ Item Affixes
-![Item Affixes](https://i.imgur.com/hZj0UEw.png)
+
+| Primary \ Secondary | Strength | Constitution | Dexterity | Intelligence | Focus |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Strength | Soldier<br/> 3 STR | Barbarian<br/> 2 STR / 1 CON | Fighter<br/> 2 STR / 1 DEX | Spellsword<br/> 2 STR / 1 INT | Monk<br/> 2 STR 1 FOC |
+| Constitution | Knight<br/> 2 CON / 1 STR | Sentry<br/> 3 CON | Warden<br/> 2 CON / 1 DEX | Druid<br/> 2 CON / 1 INT | Nomand<br/> 2 CON / 1 INT |
+| Dexterity | Cavalier<br/> 2 DEX / 1 STR | Brigand<br/> 2 DEX / 1 CON | Ranger<br/> 3 DEX | Assassin<br/> 2 DEX / 1 INT | Duelist<br/> 2 DEX / 1 FOC |
+| Intelligence | Battlemage<br/> 2 INT / 1 STR | Occultist<br/> 2 INT / 1 CON | Trickster<br/> 2 INT / 1 DEX | Scholar<br/> 3 INT | Mage<br/> 2 INT / 1 FOC |
+| Focus | Zealot<br/> 2 FOC / 1 STR | Cleric<br/> 2 FOC / 1 CON | Artificer<br/> 2 FOC / 1 DEX | Priest</br> 2 FOC / 1 INT | Sage<br/> 3 FOC |
 
 
 
