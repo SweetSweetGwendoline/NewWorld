@@ -167,6 +167,8 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🏰 Dungeons
 
+## Instanced Dungeons
+
 `25` **Amarine Excavation**
 
 [🗝️ Key](https://newworldfans.com/db/item/amrine-tuning-orb-749306)
@@ -186,6 +188,8 @@ https://www.newworld.com/de-de/support/server-status
 `65` **Lazarus Instrumentality**
 
 `65` **Garden of Genesis**
+
+## Open Dungeons
 
 
 # 🛡️ Faction Gear
