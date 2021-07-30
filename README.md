@@ -178,7 +178,7 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🛡️ Faction Gear
 Attributes of Faction armor can be changed with Faction Seals.<br/>
-*This process is permanent (can onlye be done once) and will destroy any socketed gems.*
+*This process is permanent (can only be done once) and will destroy any socketed gems.*
 
 | 🟢  | 🟣  | 🟡  | 
 |---|---|---|
