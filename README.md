@@ -208,7 +208,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 
 # 🌿 Herb Plants
 
-|   |   |   |   |   |   |
+| Region |   |   |   |   |   |
 |---|---|---|---|---|---|
 | Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |
 | Windsward | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) |   |   |
