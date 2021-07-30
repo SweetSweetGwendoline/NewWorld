@@ -143,9 +143,9 @@ https://www.newworld.com/de-de/support/server-status
 
 ✨ [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5)
 
-**Requirements**
-
-```TODO```
+| Level |
+|:---:|
+| ```50``` |
 
 ## ⭐ Side Quests
 
