@@ -156,7 +156,7 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🏰 Dungeons
 
-## Instanced Dungeons
+## 🏯 Instanced Dungeons
 
 `25` **Amarine Excavation**
 
@@ -178,7 +178,7 @@ https://www.newworld.com/de-de/support/server-status
 
 `65` **Garden of Genesis**
 
-## Open Dungeons
+## 🚩 Open Dungeons
 
 
 # 🛡️ Faction Gear
