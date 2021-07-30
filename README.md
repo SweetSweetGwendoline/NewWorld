@@ -87,6 +87,11 @@ https://www.newworld.com/de-de/support/server-status
 
 `Armoring 150`
 
+| 154 [Layered Fur Coat](https://nwdb.info/db/item/MediumChest_FurT4) (Tier IV) |
+|:---|
+| 39424 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>616 [Iron Ore](https://nwdb.info/db/item/OreT1)<br/>4004 [Fur](https://nwdb.info/db/item/FurT3) |
+
+
 👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level `55`-`60`)
 
 
