@@ -231,7 +231,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 # 🎨 Pigments
 
 | Color | Region |
-|:---|---|
+|:---|:---|
 | [Magenta](https://nwdb.info/db/item/PigmentMagenta) | First Light |
 | [Black](https://nwdb.info/db/item/PigmentBlack) | Brightwood |
 | [Orange](https://nwdb.info/db/item/PigmentOrange) | Everfall |
@@ -252,7 +252,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 Weapon damage scaling can be changed with gems
 
 | Gem | Attribute |
-|:---|---|
+|:---|:---|
 | [Amber](https://nwdb.info/db/item/AmberCutT4) |FOC (Nature)|
 | [Amethyst](https://nwdb.info/db/item/AmethystCutT4) |INT (Nature)|
 | [Aquamarine](https://nwdb.info/db/item/AquamarineCutT4) |INT (Ice)|
