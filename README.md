@@ -41,13 +41,13 @@ https://www.newworld.com/de-de/support/server-status
 
 ## ⚙️ Engineering
 
-**Level 0**
+`Engineering 0`
 
-[🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (125% Gather Speed / Level 5-10)
+[🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (125% Gather Speed / `5`-`10`)
 
-**Level 50**
+`Engineering 50`
 
-[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / Level 15-20)
+[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / `15`-`20`)
 
 **Resource Requirements**
 
@@ -69,31 +69,25 @@ https://www.newworld.com/de-de/support/server-status
 
 ➡️ 103 [Tier II Iron Arrow](https://nwdb.info/db/item/ArrowT2)
 
-**Level 100**
+`Engineering 100`
 
-🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level 35-40)
+🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / `35`-`40`)
 
-**Resource Requirements**<br/>
-```TODO```
+`Engineering 150`
 
-**Level 150**
-
-🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level 55-60)
-
-**Resource Requirements**<br/>
-```TODO```
+🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / `55`-`60`)
 
 
 
 ## 🛡️ Armoring
 
-**Level 0**
+`Armoring 0`
 
-👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / Level 5-10)
+👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / `5`-`10`)
 
-**Level 50**
+`Armoring 50`
 
-👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level 15-20)
+👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / `15`-`20`)
 
 **Resource Requirements**
 
@@ -103,19 +97,14 @@ https://www.newworld.com/de-de/support/server-status
 
 ➡️ 52 [Tier II Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2)
 
-**Level 100**
+`Armoring 100`
 
-👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / Level 35-40)
+👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / `35`-`40`)
 
-**Resource Requirements**<br/>
-```TODO```
+`Armoring 150`
 
-**Level 150**
+👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / `55`-`60`)
 
-👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level 55-60)
-
-**Resource Requirements**<br/>
-```TODO```
 
 ---
 
