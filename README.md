@@ -226,7 +226,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 
 
 
-# 🎨 Dyes
+# 🎨 Pigments
 
 | Color | Region |
 |---|---|
