@@ -43,39 +43,25 @@ https://www.newworld.com/de-de/support/server-status
 
 `Engineering 0`
 
-[🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (125% Gather Speed / `5`-`10`)
+[🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (125% Gather Speed / Level `5`-`10`)
 
 `Engineering 50`
 
-[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / `15`-`20`)
+[🪓 Tier III Tools](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) (250% Gather Speed / Level `15`-`20`)
 
 **Resource Requirements**
 
-- 2640 [Iron Ore](https://nwdb.info/db/item/OreT1)
-- 774 [Green Wood](https://nwdb.info/db/item/WoodT1)
-- 372 [Raw Hide](https://nwdb.info/db/item/RawhideT1)
-
-➡️ 93 [Tier II Iron Hatchet](https://nwdb.info/db/item/1hHatchetT2)
-
-- 1100 [Iron Ore](https://nwdb.info/db/item/OreT1)
-- 2200 [Green Wood](https://nwdb.info/db/item/WoodT1)
-- 440 [Raw Hide](https://nwdb.info/db/item/RawhideT1)
-
-➡️ 55 [Tier II Treated Wood Spear](https://nwdb.info/db/item/2hSpearT2)
-
-- 1648 [Iron Ore](https://nwdb.info/db/item/OreT1)
-- 824 [Green Wood](https://nwdb.info/db/item/WoodT1)
-- 309 [Feathers](https://nwdb.info/db/item/FeatherT1)
-
-➡️ 103 [Tier II Iron Arrow](https://nwdb.info/db/item/ArrowT2)
+| 93 [Tier II Iron Hatchet](https://nwdb.info/db/item/1hHatchetT2) | 55 [Tier II Treated Wood Spear](https://nwdb.info/db/item/2hSpearT2) | 103 [Tier II Iron Arrow](https://nwdb.info/db/item/ArrowT2) |
+|:---|:---|:---|
+| 2640 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>774 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>372 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 2200 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>1100 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>440 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 1648 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>824 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>309 [Feathers](https://nwdb.info/db/item/FeatherT1) |
 
 `Engineering 100`
 
-🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / `35`-`40`)
+🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level `35`-`40`)
 
 `Engineering 150`
 
-🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / `55`-`60`)
+🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level `55`-`60`)
 
 
 
@@ -83,27 +69,25 @@ https://www.newworld.com/de-de/support/server-status
 
 `Armoring 0`
 
-👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / `5`-`10`)
+👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / Level `5`-`10`)
 
 `Armoring 50`
 
-👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / `15`-`20`)
+👜 [Tier III Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) (+150 Encumbrance / Level `15`-`20`)
 
 **Resource Requirements**
 
-- 1144 [Fibers](https://nwdb.info/db/item/FiberT1)
-- 624 [Raw Hide](https://nwdb.info/db/item/RawhideT1)
-- 104 [Iron Ore](https://nwdb.info/db/item/OreT1)
-
-➡️ 52 [Tier II Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2)
+| 52 [Tier II Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2) |
+|:---|
+| 1144 [Fibers](https://nwdb.info/db/item/FiberT1)<br/>624 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>104 [Iron Ore](https://nwdb.info/db/item/OreT1) |
 
 `Armoring 100`
 
-👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / `35`-`40`)
+👜 [Tier IV Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) (+225 Encumbrance / Level `35`-`40`)
 
 `Armoring 150`
 
-👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / `55`-`60`)
+👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level `55`-`60`)
 
 
 ---
@@ -194,7 +178,7 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🛡️ Faction Gear
 Attributes of Faction armor can be changed with Faction Seals.<br/>
-*This process is permanent (can only be done once) and will destroy any socketed gems.*
+> *This process is permanent (can only be done once) and will destroy any socketed gems.*
 
 | 🟢  | 🟣  | 🟡  | 
 |---|---|---|
