@@ -238,11 +238,10 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 | [Cyan](https://nwdb.info/db/item/PigmentCyan) | Reekwater / Edengrove  |
 | [Green](https://nwdb.info/db/item/PigmentGreen) | Monarch's Bluff |
 | [Brown](https://nwdb.info/db/item/PigmentBrown) | Weaver's Fenn |
-| [Violet](https://nwdb.info/db/item/PigmentViolet) | Ebonscale Reach |
+| [Purple](https://nwdb.info/db/item/PigmentPurple) | Ebonscale Reach |
 | [White](https://nwdb.info/db/item/PigmentWhite) | Great Cleave |
 | [Red](https://nwdb.info/db/item/PigmentRed) | Shattered Mountain |
 | [Blue](https://nwdb.info/db/item/PigmentBlue) | Restless Shore |
-| [Purple](https://nwdb.info/db/item/PigmentPurple) | |
 
 
 
