@@ -131,34 +131,41 @@ https://www.newworld.com/de-de/support/server-status
 
 ## [🌟 Main Story](https://nwdb.info/db/quests/main-story/page/1?sort=level_asc)
 
-✨ [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1) (Level 10)
+✨ [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1)
 
-```Level 10```
+**Requirements**
 
-**Gathering Requirements**
-
-- Level 30 Harvesting<br/>
-- Level 10 Mining<br/>
-
-**Resource Requirements**
-
-- 3 [Rivercress Seed](https://nwdb.info/db/item/SeedLotusPlantT1)
-- 3 [Petalcap](https://nwdb.info/db/item/PetalcapT1)
-- 5 [Silver Ingot](https://nwdb.info/db/item/IngotPreciousT1)
+| Level | Gathering | Resource |
+|---|---|---|
+| ```Level 10``` | Level 30 Harvesting<br/>Level 10 Mining | 3 [Rivercress Seed](https://nwdb.info/db/item/SeedLotusPlantT1)<br/>3 [Petalcap](https://nwdb.info/db/item/PetalcapT1)<br/>5 [Silver Ingot](https://nwdb.info/db/item/IngotPreciousT1) |
 
 ✨ [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2)
 
-```Level 20```
+**Requirements**
+
+| Level |
+|---|
+| ```Level 20``` |
 
 ✨ [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3)
 
-```Level 30```
+**Requirements**
+
+| Level |
+|---|
+| ```Level 30``` |
 
 ✨ [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4)
 
-```Level 40```
+**Requirements**
+
+| Level |
+|---|
+| ```Level 40``` |
 
 ✨ [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5)
+
+**Requirements**
 
 ```TODO```
 
