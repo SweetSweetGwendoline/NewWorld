@@ -249,7 +249,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 
 # 💎 Gems
 
-Weapon damage scaling can be changed with gems
+> Weapon damage scaling can be changed with gems
 
 | Gem | Attribute |
 |:---|:---|
