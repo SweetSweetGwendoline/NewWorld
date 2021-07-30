@@ -209,7 +209,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 # 🌿 Herb Plants
 
 | Region |   |   |   |   |   |
-|---|---|---|---|---|---|
+|:---|---|---|---|---|---|
 | Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |
 | Windsward | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) |   |   |
 | First Light | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1)  | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) |   |
@@ -231,7 +231,7 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 # 🎨 Pigments
 
 | Color | Region |
-|---|---|
+|:---|---|
 | [Magenta](https://nwdb.info/db/item/PigmentMagenta) | First Light |
 | [Black](https://nwdb.info/db/item/PigmentBlack) | Brightwood |
 | [Orange](https://nwdb.info/db/item/PigmentOrange) | Everfall |
@@ -252,11 +252,11 @@ Attributes of Faction armor can be changed with Faction Seals.<br/>
 Weapon damage scaling can be changed with gems
 
 | Gem | Attribute |
-|---|---|
-|[Amber](https://nwdb.info/db/item/AmberCutT4)|FOC (Nature)|
-|[Amethyst](https://nwdb.info/db/item/AmethystCutT4)|INT (Nature)|
-|[Aquamarine](https://nwdb.info/db/item/AquamarineCutT4)|INT (Ice)|
-|[Ruby](https://nwdb.info/db/item/RubyCutT4)|INT (Fire)|
-|[Sapphire](https://nwdb.info/db/item/SapphireCutT4)|INT (Arcane)|
-|[Topaz](https://nwdb.info/db/item/TopazCutT4)|INT (Lightning)|
+|:---|---|
+| [Amber](https://nwdb.info/db/item/AmberCutT4) |FOC (Nature)|
+| [Amethyst](https://nwdb.info/db/item/AmethystCutT4) |INT (Nature)|
+| [Aquamarine](https://nwdb.info/db/item/AquamarineCutT4) |INT (Ice)|
+| [Ruby](https://nwdb.info/db/item/RubyCutT4) |INT (Fire)|
+| [Sapphire](https://nwdb.info/db/item/SapphireCutT4) |INT (Arcane)|
+| [Topaz](https://nwdb.info/db/item/TopazCutT4) |INT (Lightning)|
 
