@@ -170,6 +170,19 @@ https://www.newworld.com/de-de/support/server-status
 ## 🚩 Open Expeditions
 
 
+
+# 🏴‍☠️ Faction Ranks
+
+| Tier | Level | Reputation |
+|:---:|:---:|:---:|
+| I  |   |   |
+| II | `25` | 3000 |
+| III  | `35` | 11000 |
+| IV  | `45` | 26000 |
+| V | `55` |   |
+
+
+
 # 🛡️ Faction Gear
 > Attributes of Faction armor can be changed with Faction Seals.<br/>
 > *This process is permanent (can only be done once) and will destroy any socketed gems.*
