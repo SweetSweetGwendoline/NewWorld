@@ -210,8 +210,8 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🌿 Herb Plants
 
-| Region |   |   |   |   |   |
-|:---|---|---|---|---|---|
+| Region |   |   |   |   |   |   |
+|:---|---|---|---|---|---|---|
 | Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |   |
 | Windsward | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Mint](https://nwdb.info/db/item/MintT1) |   |   |
 | First Light | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1)  | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) |   |   |
