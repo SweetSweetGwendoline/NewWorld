@@ -175,11 +175,11 @@ https://www.newworld.com/de-de/support/server-status
 
 | Tier | Level | Reputation | 🟢 | 🟣 | 🟡 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| I  | `0` | 0 | Soldier | Adept |  |
-| II | `25` | 3000 | Gladiator | Scrivener |  |
-| III  | `35` | 11000 | Ravanger | Chronicler |  |
-| IV  | `45` | 26000 | Destroyer | Alchemist |  |
-| V | `55` | 49000 | Commander |  |  |
+| I  | `0` | 0 | Soldier | Adept | Initiate |
+| II | `25` | 3000 | Gladiator | Scrivener | Templar |
+| III  | `35` | 11000 | Ravanger | Chronicler | Excubitor |
+| IV  | `45` | 26000 | Destroyer | Alchemist | Lumen |
+| V | `55` | 49000 | Commander |  | Adjudicator |
 
 
 
