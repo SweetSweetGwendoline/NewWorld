@@ -173,13 +173,13 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🏴‍☠️ Faction Ranks
 
-| Tier | Level | Reputation |
-|:---:|:---:|:---:|
-| I  |   |   |
-| II | `25` | 3000 |
-| III  | `35` | 11000 |
-| IV  | `45` | 26000 |
-| V | `55` |   |
+| Tier | Level | Reputation | 🟢 |
+|:---:|:---:|:---:|:---:|
+| I  | `0` | 0 |   |
+| II | `25` | 3000 | Gladiator |
+| III  | `35` | 11000 |   |
+| IV  | `45` | 26000 |   |
+| V | `55` |   |   |
 
 
 
