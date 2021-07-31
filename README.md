@@ -158,7 +158,7 @@ https://www.newworld.com/de-de/support/server-status
 
 ## 🏯 Instanced Expeditions
 
-| Image | Level | Expedition | Key |
+|   | Level | Expedition | Key |
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_amrine.png" alt="Amarine Excavation" width="30px"/> | `25` | **Amarine Excavation** | [🗝️ Amrine Tuning Orb](https://newworldfans.com/db/item/amrine-tuning-orb-749306) |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_obelisk.png" alt="Starstone Barrows" width="30px"/> | `35` | **Starstone Barrows** | [🗝️ Starstone Tuning Orb](https://newworldfans.com/db/item/starstone-tuning-orb-68b355) |
