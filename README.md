@@ -212,21 +212,21 @@ https://www.newworld.com/de-de/support/server-status
 
 | Region |   |   |   |   |   |
 |:---|---|---|---|---|---|
-| Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |
-| Windsward | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) |   |   |
-| First Light | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1)  | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) |   |
-| Monarch's Bluffs | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |
-| Cutlass Keys | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |   |
-| Brightwood | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) |
-| Weaver's Fen | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) |   |   |   |
-| Restless Shore | [Rosemary](https://nwdb.info/db/item/RosemaryT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |   |
-| Mourningdale | [Dill](https://nwdb.info/db/item/DillT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |
-| Great Cleave | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) |   |   |
-| Edengrove | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |   |
-| Ebonscale Reach | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) |   |   |
-| Reekwater | [Sage](https://nwdb.info/db/item/SageT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) |   |
-| Shattered Mountain | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |   |
-|  Brimstone Sands | [Salt](https://nwdb.info/db/item/SaltT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Garlic](https://nwdb.info/db/item/GarlicT1) |   |   |
+| Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |   |
+| Windsward | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Mint](https://nwdb.info/db/item/MintT1) |   |   |
+| First Light | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1)  | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) |   |   |
+| Monarch's Bluffs | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |   |
+| Cutlass Keys | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |   |   |
+| Brightwood | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Tarragon](https://nwdb.info/db/item/TarragonT1) |
+| Weaver's Fen | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) | [Mint](https://nwdb.info/db/item/MintT1) |   |   |   |
+| Restless Shore | [Rosemary](https://nwdb.info/db/item/RosemaryT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) | [Mint](https://nwdb.info/db/item/MintT1) |   |   |   |
+| Mourningdale | [Dill](https://nwdb.info/db/item/DillT1) | [Saffron](https://nwdb.info/db/item/SaffronT1) | [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |   |
+| Great Cleave | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | [Rosemary](https://nwdb.info/db/item/RosemaryT1) |   |   |   |
+| Edengrove | [Dill](https://nwdb.info/db/item/DillT1) | [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | [Parsley](https://nwdb.info/db/item/ParsleyT1) |   |   |   |
+| Ebonscale Reach | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) |   |   |   |
+| Reekwater | [Sage](https://nwdb.info/db/item/SageT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Tarragon](https://nwdb.info/db/item/TarragonT1) |   |
+| Shattered Mountain | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |   |   |
+|  Brimstone Sands | [Salt](https://nwdb.info/db/item/SaltT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Tarragon](https://nwdb.info/db/item/TarragonT1) |   |   |
 
 
 
