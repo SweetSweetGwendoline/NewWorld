@@ -154,31 +154,20 @@ https://www.newworld.com/de-de/support/server-status
 
 
 
-# 🏰 Dungeons
+# 🏰 Expeditions
 
-## 🏯 Instanced Dungeons
+## 🏯 Instanced Expeditions
 
-`25` **Amarine Excavation**
+| Image | Level | Expedition | Key |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_amrine.png" alt="Amarine Excavation" width="30px"/> | `25` | **Amarine Excavation** | [🗝️ Amrine Tuning Orb](https://newworldfans.com/db/item/amrine-tuning-orb-749306) |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_obelisk.png" alt="Starstone Barrows" width="30px"/> | `35` | **Starstone Barrows** | [🗝️ Starstone Tuning Orb](https://newworldfans.com/db/item/starstone-tuning-orb-68b355) |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_depths.png" alt="The Depths" width="30px"/> | `45` | **The Depths** | [🗝️ Depths Tuning Orb](https://newworldfans.com/db/item/depths-tuning-orb-2a4821) |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_shipyard.png" alt="Dynasty Shipyard" width="30px"/> | `55` | **Dynasty Shipyard** | [🗝️ Dynasty Tuning Orb](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b) |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="30px"/> | `65` | **Lazarus Instrumentality** |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="30px"/> | `65` | **Garden of Genesis** |   |
 
-[🗝️ Key](https://newworldfans.com/db/item/amrine-tuning-orb-749306)
-
-`35` **Starstone Barrows**
-
-[🗝️ Key](https://newworldfans.com/db/item/starstone-tuning-orb-68b355)
-
-`45` **The Depths**
-
-[🗝️ Key](https://newworldfans.com/db/item/depths-tuning-orb-2a4821)
-
-`55` **Dynasty Shipyard**
-
-[🗝️ Key](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b)
-
-`65` **Lazarus Instrumentality**
-
-`65` **Garden of Genesis**
-
-## 🚩 Open Dungeons
+## 🚩 Open Expeditions
 
 
 # 🛡️ Faction Gear
