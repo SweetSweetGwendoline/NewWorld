@@ -173,13 +173,13 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🏴‍☠️ Faction Ranks
 
-| Tier | Level | Reputation | 🟢 |
-|:---:|:---:|:---:|:---:|
-| I  | `0` | 0 | Soldier |
-| II | `25` | 3000 | Gladiator |
-| III  | `35` | 11000 | Ravanger |
-| IV  | `45` | 26000 | Destroyer |
-| V | `55` | 49000 | Commander |
+| Tier | Level | Reputation | 🟢 | 🟣 | 🟡 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| I  | `0` | 0 | Soldier | Adept |  |
+| II | `25` | 3000 | Gladiator | Scrivener |  |
+| III  | `35` | 11000 | Ravanger | Chronicler |  |
+| IV  | `45` | 26000 | Destroyer | Alchemist |  |
+| V | `55` | 49000 | Commander |  |  |
 
 
 
