@@ -241,7 +241,7 @@ https://www.newworld.com/de-de/support/server-status
 | [Yellow](https://nwdb.info/db/item/PigmentYellow) | Cutlass Keys / Mourning Dale |
 | [Cyan](https://nwdb.info/db/item/PigmentCyan) | Reekwater / Edengrove  |
 | [Green](https://nwdb.info/db/item/PigmentGreen) | Monarch's Bluff |
-| [Brown](https://nwdb.info/db/item/PigmentBrown) | Weaver's Fenn |
+| [Brown](https://nwdb.info/db/item/PigmentBrown) | Weaver's Fen |
 | [Purple](https://nwdb.info/db/item/PigmentPurple) | Ebonscale Reach |
 | [White](https://nwdb.info/db/item/PigmentWhite) | Great Cleave |
 | [Red](https://nwdb.info/db/item/PigmentRed) | Shattered Mountain |
