@@ -164,8 +164,8 @@ https://www.newworld.com/de-de/support/server-status
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_obelisk.png" alt="Starstone Barrows" width="30px"/> | `35` | **Starstone Barrows** | [Starstone Tuning Orb](https://newworldfans.com/db/item/starstone-tuning-orb-68b355) |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_depths.png" alt="The Depths" width="30px"/> | `45` | **The Depths** | [Depths Tuning Orb](https://newworldfans.com/db/item/depths-tuning-orb-2a4821) |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_shipyard.png" alt="Dynasty Shipyard" width="30px"/> | `55` | **Dynasty Shipyard** | [Dynasty Tuning Orb](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b) |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="30px"/> | `65` | **Lazarus Instrumentality** |   |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="30px"/> | `65` | **Garden of Genesis** |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="30px"/> | `65` | **Lazarus Instrumentality** | [Lazarus Tuning Orb](https://newworldfans.com/db/item/lazarus-tuning-orb-607d7f) |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="30px"/> | `65` | **Garden of Genesis** | [Genesis Tuning Orb](https://newworldfans.com/db/item/genesis-tuning-orb-b7c2a8) |
 
 ## 🚩 Open Expeditions
 
