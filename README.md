@@ -230,7 +230,7 @@ https://www.newworld.com/de-de/support/server-status
 |  Brimstone Sands | [Salt](https://nwdb.info/db/item/SaltT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Tarragon](https://nwdb.info/db/item/TarragonT1) |   |   |
 -->
 
-| 🌿 |   |   |   |
+| Seasonings / Herbs |   |   |   |
 |:---|:---:|:---:|:---:|
 | [Garlic](https://nwdb.info/db/item/GarlicT1) | Everfall | Great Cleave | Brimstone Sands |
 | [Basil](https://nwdb.info/db/item/BasilT1) | Everfall | Brightwood | Brimstone Sands |
