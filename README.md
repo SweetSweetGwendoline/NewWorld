@@ -210,6 +210,7 @@ https://www.newworld.com/de-de/support/server-status
 
 # 🌿 Herb Plants
 
+<!--
 | Region |   |   |   |   |   |   |
 |:---|---|---|---|---|---|---|
 | Everfall | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Sage](https://nwdb.info/db/item/SageT1) | [Salt](https://nwdb.info/db/item/SaltT1) |   |   |
@@ -227,7 +228,28 @@ https://www.newworld.com/de-de/support/server-status
 | Reekwater | [Sage](https://nwdb.info/db/item/SageT1) | [Ginger](https://nwdb.info/db/item/GingerT1) | [Sugar](https://nwdb.info/db/item/SugarT1) | [Thyme](https://nwdb.info/db/item/ThymeT1) | [Tarragon](https://nwdb.info/db/item/TarragonT1) |   |
 | Shattered Mountain | [Paprika](https://nwdb.info/db/item/PaprikaT1) | [Oregano](https://nwdb.info/db/item/OreganoT1) |   |   |   |   |
 |  Brimstone Sands | [Salt](https://nwdb.info/db/item/SaltT1) | [Basil](https://nwdb.info/db/item/BasilT1) | [Garlic](https://nwdb.info/db/item/GarlicT1) | [Tarragon](https://nwdb.info/db/item/TarragonT1) |   |   |
+-->
 
+| 🌿 |   |   |   |
+|:---|:---:|:---:|:---:|
+| [Garlic](https://nwdb.info/db/item/GarlicT1) | Everfall | Great Cleave | Brimstone Sands |
+| [Basil](https://nwdb.info/db/item/BasilT1) | Everfall | Brightwood | Brimstone Sands |
+| [Salt](https://nwdb.info/db/item/SaltT1) | Everfall | Brightwood | Brimstone Sands |
+| [Sage](https://nwdb.info/db/item/SageT1) | Everfall | Brightwood | Reekwater |
+| [Thyme](https://nwdb.info/db/item/ThymeT1) | Windsward | Ebonscale Reach | Reekwater |
+| [Ginger](https://nwdb.info/db/item/GingerT1) | Windsward | Ebonscale Reach | Reekwater |
+| [Sugar](https://nwdb.info/db/item/SugarT1) | Windsward | Ebonscale Reach | Reekwater |
+| [Mint](https://nwdb.info/db/item/MintT1) | Windsward | Weaver's Fen | Restless Shore |
+| [Nutmeg](https://nwdb.info/db/item/NutmegT1) | First Light | Weaver's Fen | Great Cleave |
+| [Dill](https://nwdb.info/db/item/DillT1) | First Light | Edengrove | Mourningdale |
+| [Saffron](https://nwdb.info/db/item/SaffronT1) | First Light | Brightwood | Mourningdale |
+| [Cinnamon](https://nwdb.info/db/item/CinnamonT1) | First Light | Cutlass Keys | Edengrove |
+| [Peppercorn](https://nwdb.info/db/item/PeppercornT1) | Monarch's Bluffs | Cutlass Keys | Mourningdale |
+| [Paprika](https://nwdb.info/db/item/PaprikaT1) | Monarch's Bluffs | Brightwood | Shattered Mountain |
+| [Oregano](https://nwdb.info/db/item/OreganoT1) | Monarch's Bluffs | Restless Shore | Shattered Mountain |
+| [Rosemary](https://nwdb.info/db/item/RosemaryT1) | Weaver's Fen | Restless Shore | Great Cleav |
+| [Parsley](https://nwdb.info/db/item/ParsleyT1) | Cutlass Keys | Edengrove | Mourningdale |
+| [Tarragon](https://nwdb.info/db/item/TarragonT1) | Brightwood | Reekwater | Brimstone Sands |
 
 
 # 🎨 Pigments
