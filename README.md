@@ -175,6 +175,7 @@ https://www.newworld.com/de-de/support/server-status
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/abandoned_village_elite.png" alt="Brightwood Isle" width="30px"/> | `35` | **Brightwood Isle** | Brightwood |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/cave_elite.png" alt="Stone Skull Fort" width="30px"/> | `40` | **Stone Skull Fort** | Cutlass Keys |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/abandoned_village_elite.png" alt="Periville" width="30px"/> | `40` | **Periville** | Weaver's Fen |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_lighthouse_elite.png" alt="Eridanus" width="30px"/> | `45` | **Eridanus** | Restless Shore |
 
 # 🏴‍☠️ Faction Ranks
 
