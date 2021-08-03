@@ -237,7 +237,7 @@ https://www.newworld.com/de-de/support/server-status
 > - [Bones For Barkimedes (Expedition)](https://nwdb.info/db/quest/0699_0101_Barkimedes) Amarine Excavation (`25`) 
 > - [More Bones for Barkimedes (Expedition)](https://nwdb.info/db/quest/0699_0102_Barkimedes2) Starstone Barrows (`35`)
 
-## 🚩 Open Expeditions
+## 🚩 Open World Elite Areas
 
 |   | Level | Expedition | Region |
 |:---:|:---:|:---:|:---:|
