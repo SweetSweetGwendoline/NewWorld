@@ -41,6 +41,23 @@ https://www.newworld.com/de-de/support/server-status
 
 ## ⚙️ Engineering
 
+| Engineering | Item | Level | Gather Speed |
+|:---|:---|:---:|:---:|
+| `Engineering 0` | [Tools (Tier II)](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) | `5`-`10` | 125% |
+| `Engineering 50` | [Tools (Tier III)](https://nwdb.info/db/items/tools/page/1?tier=3&sort=gs_desc) | `15`-`20` | 250% |
+| `Engineering 100` | [Tools (Tier IV)](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) | `35`-`40` | 400% |
+| `Engineering 150` | [Tools (Tier V)](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) | `55`-`60` | 625% |
+
+> Leveling Engineering
+> 
+> `Engineering 50`
+> 
+> | 93 [Iron Hatchet](https://nwdb.info/db/item/1hHatchetT2) (Tier II) | 55 [Treated Wood Spear](https://nwdb.info/db/item/2hSpearT2) (Tier II) | 103 [Iron Arrow](https://nwdb.info/db/item/ArrowT2) (Tier II) |
+> |:---|:---|:---|
+> | 2640 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>774 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>372 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 2200 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>1100 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>440 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 1648 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>824 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>309 [Feathers](https://nwdb.info/db/item/FeatherT1) |
+> 
+
+<!--
 `Engineering 0`
 
 [🪓 Tier II Tools](https://nwdb.info/db/items/tools/page/1?tier=2&sort=gs_desc) (125% Gather Speed / Level `5`-`10`)
@@ -55,16 +72,45 @@ https://www.newworld.com/de-de/support/server-status
 
 `Engineering 100`
 
-🪓 [Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level `35`-`40`)
+[🪓 Tier IV Tools](https://nwdb.info/db/items/tools/page/1?tier=4&sort=gs_desc) (400% Gather Speed / Level `35`-`40`)
 
 `Engineering 150`
 
-🪓 [Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level `55`-`60`)
+[🪓 Tier V Tools](https://nwdb.info/db/items/tools/page/1?tier=5&sort=gs_desc) (625% Gather Speed / Level `55`-`60`)
+-->
 
 
 
 ## 🛡️ Armoring
 
+| Armoring | Item | Level | Encumbrance |
+|:---|:---|:---:|:---:|
+| `Armoring 0` | [Bag (Tier II)](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) | `5`-`10` | +100 |
+| `Armoring 50` | [Bag (Tier III)](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) | `15`-`20` | +150 |
+| `Armoring 100` | [Bag (Tier IV)](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) | `35`-`40` | +225 |
+| `Armoring 150` | [Bag (Tier V)](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) | `55`-`60` | +300 |
+
+> Leveling Armoring
+>
+> `Armoring 50`
+> 
+> | 52 [Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2) (Tier II) |
+> |:---|
+> | 1144 [Fibers](https://nwdb.info/db/item/FiberT1)<br/>624 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>104 [Iron Ore](https://nwdb.info/db/item/OreT1) |
+> 
+> `Armoring 100`
+> 
+> | 50 [Rugged Fur Gloves](https://nwdb.info/db/item/MediumHands_FurT3) (Tier III) |
+> |:---|
+> | 2552 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>1276 [Iron Ore](https://nwdb.info/db/item/OreT1)<br/>960 [Fur](https://nwdb.info/db/item/FurT3) |
+> 
+> `Armoring 150`
+> 
+> | 154 [Layered Fur Coat](https://nwdb.info/db/item/MediumChest_FurT4) (Tier IV) |
+> |:---|
+> | 39424 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>616 [Iron Ore](https://nwdb.info/db/item/OreT1)<br/>4004 [Fur](https://nwdb.info/db/item/FurT3) |
+
+<!--
 `Armoring 0`
 
 👜 [Tier II Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) (+100 Encumbrance / Level `5`-`10`)
@@ -93,6 +139,7 @@ https://www.newworld.com/de-de/support/server-status
 
 
 👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level `55`-`60`)
+-->
 
 
 ---
