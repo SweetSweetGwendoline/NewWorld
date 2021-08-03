@@ -184,10 +184,11 @@ https://www.newworld.com/de-de/support/server-status
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="30px"/> | `65` | **Lazarus Instrumentality** | [Lazarus Tuning Orb](https://newworldfans.com/db/item/lazarus-tuning-orb-607d7f) |   |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="30px"/> | `65` | **Garden of Genesis** | [Genesis Tuning Orb](https://newworldfans.com/db/item/genesis-tuning-orb-b7c2a8) |   |
 
-> Barkimedes (The wolf in front of Amrine Excavation) will give you repeatable Quests
+> Barkimedes (The wolf in front of Amrine Excavation) will give you Quests
 >
-> - Amarine Excavation (`25`) 
-> - Starstone Barrows (`33`)
+> - [Bones For Barkimedes (Expedition)](https://nwdb.info/db/quest/0699_0103_BarkimedesPup) Amarine Excavation (`25`) 
+> - [Bones For Barkimedes (Expedition)](https://nwdb.info/db/quest/0699_0101_Barkimedes) Amarine Excavation (`25`) 
+> - [More Bones for Barkimedes (Expedition)](https://nwdb.info/db/quest/0699_0102_Barkimedes2) Starstone Barrows (`35`)
 
 ## 🚩 Open Expeditions
 
