@@ -257,8 +257,25 @@ https://www.newworld.com/de-de/support/server-status
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/abandoned_village_elite.png" alt="Periville" width="30px"/> | `40` | **Periville** | Weaver's Fen |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_lighthouse_elite.png" alt="Eridanus" width="30px"/> | `45` | **Eridanus** | Restless Shore |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_lighthouse_elite.png" alt="Scorpius" width="30px"/> | `50` | **Scorpius** | Mourningdale |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/military_camp_elite.png" alt="Svikin's Stand" width="30px"/> | `50` | **Svikin's Stand** | Great Cleave |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_temple_sm_elite.png" alt="Stranglepitch Road" width="30px"/> | `60` | **Stranglepitch Road** | Great Cleave |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_temple_sm_elite.png" alt="Balebane Maw" width="30px"/> | `60` | **Balebane Maw** | Great Cleave |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_temple_sm_elite.png" alt="Dead Fool's Pass" width="30px"/> | `60` | **Dead Fool's Pass** | Great Cleave |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_temple_sm_elite.png" alt="Mangled Pox Gate" width="30px"/> | `60` | **Mangled Pox Gate** | Great Cleave |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_shrine_elite.png" alt="Nihilo Visage" width="30px"/> | `60` | **Nihilo Visage** | Great Cleave |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/fort_elite.png" alt="Caminus" width="30px"/> | `61` | **Caminus** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_temple_sm_elite.png" alt="Imperial Palace" width="30px"/> | `61`-`62` | **Imperial Palace** | Ebonscale Reach |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_malevolence_elite.png" alt="Malevolence" width="30px"/> | `62` | **Malevolence** | Edengrove |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_temple_sm_elite.png" alt="Imperial Palace" width="30px"/> | `62` | **Imperial Palace** | Ebonscale Reach |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/mine_elite.png" alt="Ambusti Inferior" width="30px"/> | `63` | **Ambusti Inferior** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/mine_elite.png" alt="Ambusti Superior" width="30px"/> | `63` | **Ambusti Superior** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/angryearth_ruins_elite.png" alt="Eternal Pool" width="30px"/> | `63`-`64` | **Eternal Pool** | Reekwater |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/abandoned_fishing_village_elite.png" alt="Forecastle Drift" width="30px"/> | `63`-`65` | **Forecastle Drift** | Reekwater |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/outpost_elite.png" alt="The Tangle" width="30px"/> | `62`-`65` | **The Tangle** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/ancient_shrine_elite.png" alt="Greater Tribulation" width="30px"/> | `63`-`65` | **Greater Tribulation** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/damnedcapitalcity_elite.png" alt="Opulence" width="30px"/> | `63`-`65` | **Opulence** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/abandonedcity_elite.png" alt="Upper Harrow" width="30px"/> | `63`-`65` | **Upper Harrow** | Shattered Mountain |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/graveyard_elite.png" alt="Myrkgard Cathedral" width="30px"/> | `63`-`65` | **Myrkgard Cathedral** | Shattered Mountain |
+
 
 # 🏴‍☠️ Faction Ranks
 
