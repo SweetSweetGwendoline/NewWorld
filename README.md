@@ -152,11 +152,6 @@ https://www.newworld.com/de-de/support/server-status
 | `Stonecutting 100` | [Genesis Tuning Orb](https://newworldfans.com/db/item/genesis-tuning-orb-b7c2a8) |
 | `Stonecutting 150` | [Lazarus Tuning Orb](https://newworldfans.com/db/item/lazarus-tuning-orb-607d7f) |
 
-> Leveling Stonecutting
->
-> `Stonecutting 50`
-
-
 ---
 
 [📝 Crafting Calculations](https://docs.google.com/spreadsheets/d/12YQAIEIVjVhwQbYKOiEM3MxQ9OW6s6zM/)
