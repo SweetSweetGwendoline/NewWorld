@@ -141,6 +141,21 @@ https://www.newworld.com/de-de/support/server-status
 👜 [Tier V Bag](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) (+300 Encumbrance / Level `55`-`60`)
 -->
 
+## 💎 Stonecutting
+
+| Stonecutting | Item |
+|:---|:---|
+| `Stonecutting 25` | [Amrine Tuning Orb](https://newworldfans.com/db/item/amrine-tuning-orb-749306) |
+| `Stonecutting 50` | [Starstone Tuning Orb](https://newworldfans.com/db/item/starstone-tuning-orb-68b355) |
+| `Stonecutting 55` | [Depths Tuning Orb](https://newworldfans.com/db/item/depths-tuning-orb-2a4821) |
+| `Stonecutting 75` | [Dynasty Tuning Orb](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b) |
+| `Stonecutting 100` | [Genesis Tuning Orb](https://newworldfans.com/db/item/genesis-tuning-orb-b7c2a8) |
+| `Stonecutting 150` | [Lazarus Tuning Orb](https://newworldfans.com/db/item/lazarus-tuning-orb-607d7f) |
+
+> Leveling Stonecutting
+>
+> `Stonecutting 50`
+
 
 ---
 
