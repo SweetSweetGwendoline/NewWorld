@@ -52,7 +52,7 @@ https://www.newworld.com/de-de/support/server-status
 > 
 > `Engineering 50`
 > 
-> | 93 [Iron Hatchet](https://nwdb.info/db/item/1hHatchetT2) (Tier II) | 55 [Treated Wood Spear](https://nwdb.info/db/item/2hSpearT2) (Tier II) | 103 [Iron Arrow](https://nwdb.info/db/item/ArrowT2) (Tier II) |
+> | 93 [Iron Hatchet](https://nwdb.info/db/recipe/Procedural_HatchetT2) (Tier II) | 55 [Treated Wood Spear](https://nwdb.info/db/recipe/Procedural_SpearT2) (Tier II) | 103 [Iron Arrow](https://nwdb.info/db/recipe/ArrowT2) (Tier II) |
 > |:---|:---|:---|
 > | 2640 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>774 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>372 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 2200 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>1100 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>440 [Raw Hide](https://nwdb.info/db/item/RawhideT1) | 1648 [Iron Ore](https://nwdb.info/db/item/OreT1)</br>824 [Green Wood](https://nwdb.info/db/item/WoodT1)</br>309 [Feathers](https://nwdb.info/db/item/FeatherT1) |
 > 
@@ -94,19 +94,19 @@ https://www.newworld.com/de-de/support/server-status
 >
 > `Armoring 50`
 > 
-> | 52 [Linen Hat](https://nwdb.info/db/item/LightHead_ClothT2) (Tier II) |
+> | 52 [Linen Hat](https://nwdb.info/db/recipe/Procedural_ClothHeadT2) (Tier II) |
 > |:---|
 > | 1144 [Fibers](https://nwdb.info/db/item/FiberT1)<br/>624 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>104 [Iron Ore](https://nwdb.info/db/item/OreT1) |
 > 
 > `Armoring 100`
 > 
-> | 50 [Rugged Fur Gloves](https://nwdb.info/db/item/MediumHands_FurT3) (Tier III) |
+> | 50 [Rugged Fur Gloves](https://nwdb.info/db/recipe/Procedural_FurHandsT3) (Tier III) |
 > |:---|
 > | 2552 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>1276 [Iron Ore](https://nwdb.info/db/item/OreT1)<br/>960 [Fur](https://nwdb.info/db/item/FurT3) |
 > 
 > `Armoring 150`
 > 
-> | 154 [Layered Fur Coat](https://nwdb.info/db/item/MediumChest_FurT4) (Tier IV) |
+> | 154 [Layered Fur Coat](https://nwdb.info/db/recipe/Procedural_FurChestT4) (Tier IV) |
 > |:---|
 > | 39424 [Raw Hide](https://nwdb.info/db/item/RawhideT1)<br/>616 [Iron Ore](https://nwdb.info/db/item/OreT1)<br/>4004 [Fur](https://nwdb.info/db/item/FurT3) |
 
