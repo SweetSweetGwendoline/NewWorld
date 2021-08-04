@@ -166,13 +166,13 @@ https://www.newworld.com/de-de/support/server-status
 
 ## [🌟 Main Story](https://nwdb.info/db/quests/main-story/page/1?sort=level_asc)
 
-| Level | Azoth Staff |
-|:---:|---|
-| `12` | [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1) |
-| `20` | [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2) |
-| `30` | [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3) |
-| `40` | [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4) |
-| `50` | [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5) |
+| Level | Azoth Staff | Quest Reward
+|:---:|---|---|
+| `12` | [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1) | [Forge Your Azoth Staff](https://nwdb.info/db/quest/9901_0019_forgethestaff) |
+| `20` | [Tier II Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T2) | [Covenant Commitment](https://nwdb.info/db/quest/9903_0026_heartsandsouls) |
+| `30` | [Tier III Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T3) | [The Alliance](https://nwdb.info/db/quest/9905_0034_thealliance)  |
+| `40` | [Tier IV Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T4) |  |
+| `50` | [Tier V Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T5) |  |
 
 > Requirements for [Tier I Azoth Staff](https://nwdb.info/db/item/Darkness_AzothStaff_T1)
 > | Gathering | Resource |
