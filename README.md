@@ -145,12 +145,12 @@ https://www.newworld.com/de-de/support/server-status
 
 | Stonecutting | Item |
 |:---|:---|
-| `Stonecutting 25` | [Amrine Tuning Orb](https://newworldfans.com/db/item/amrine-tuning-orb-749306) |
-| `Stonecutting 50` | [Starstone Tuning Orb](https://newworldfans.com/db/item/starstone-tuning-orb-68b355) |
-| `Stonecutting 55` | [Depths Tuning Orb](https://newworldfans.com/db/item/depths-tuning-orb-2a4821) |
-| `Stonecutting 75` | [Dynasty Tuning Orb](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b) |
-| `Stonecutting 100` | [Genesis Tuning Orb](https://newworldfans.com/db/item/genesis-tuning-orb-b7c2a8) |
-| `Stonecutting 150` | [Lazarus Tuning Orb](https://newworldfans.com/db/item/lazarus-tuning-orb-607d7f) |
+| `Stonecutting 25` | [Amrine Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyAmrine) |
+| `Stonecutting 50` | [Starstone Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyShattered) |
+| `Stonecutting 55` | [Depths Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyDepts) |
+| `Stonecutting 75` | [Dynasty Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyDynasty) |
+| `Stonecutting 100` | [Genesis Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyGenesis) |
+| `Stonecutting 150` | [Lazarus Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyLazarus) |
 
 ---
 
@@ -234,12 +234,12 @@ https://www.newworld.com/de-de/support/server-status
 
 |   | Level | Expedition | Key |   |
 |:---:|:---:|:---:|:---:|:---|
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_amrine.png" alt="Amarine Excavation" width="40px"/> | `25` | **Amarine Excavation** | [Amrine Tuning Orb](https://newworldfans.com/db/item/amrine-tuning-orb-749306) | Part of Main Quest. |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_obelisk.png" alt="Starstone Barrows" width="40px"/> | `35` | **Starstone Barrows** | [Starstone Tuning Orb](https://newworldfans.com/db/item/starstone-tuning-orb-68b355) | Questline starts from NPC on the 2nd floor of the Inn in Everfall. |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_depths.png" alt="The Depths" width="40px"/> | `45` | **The Depths** | [Depths Tuning Orb](https://newworldfans.com/db/item/depths-tuning-orb-2a4821) |   |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_shipyard.png" alt="Dynasty Shipyard" width="40px"/> | `55` | **Dynasty Shipyard** | [Dynasty Tuning Orb](https://newworldfans.com/db/item/dynasty-tuning-orb-8ff04b) |   |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="40px"/> | `65` | **Lazarus Instrumentality** | [Lazarus Tuning Orb](https://newworldfans.com/db/item/lazarus-tuning-orb-607d7f) |   |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="40px"/> | `65` | **Garden of Genesis** | [Genesis Tuning Orb](https://newworldfans.com/db/item/genesis-tuning-orb-b7c2a8) |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_amrine.png" alt="Amarine Excavation" width="40px"/> | `25` | **Amarine Excavation** | [Amrine Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyAmrine) | Part of Main Quest. |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_obelisk.png" alt="Starstone Barrows" width="40px"/> | `35` | **Starstone Barrows** | [Starstone Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyShattered) | Questline starts from NPC on the 2nd floor of the Inn in Everfall. |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_depths.png" alt="The Depths" width="40px"/> | `45` | **The Depths** | [Depths Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyDepts) |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_shipyard.png" alt="Dynasty Shipyard" width="40px"/> | `55` | **Dynasty Shipyard** | [Dynasty Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyDynasty) |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="40px"/> | `65` | **Lazarus Instrumentality** | [Lazarus Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyLazarus) |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="40px"/> | `65` | **Garden of Genesis** | [Genesis Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyGenesis) |   |
 
 > Barkimedes (The wolf in front of Amrine Excavation) will give you Quests
 >
