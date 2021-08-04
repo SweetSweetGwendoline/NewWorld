@@ -238,8 +238,8 @@ https://www.newworld.com/de-de/support/server-status
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_obelisk.png" alt="Starstone Barrows" width="40px"/> | `35` | **Starstone Barrows** | [Starstone Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyShattered) | Questline starts from NPC on the 2nd floor of the Inn in Everfall. |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_depths.png" alt="The Depths" width="40px"/> | `45` | **The Depths** | [Depths Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyDepts) |   |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_shipyard.png" alt="Dynasty Shipyard" width="40px"/> | `55` | **Dynasty Shipyard** | [Dynasty Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyDynasty) |   |
-| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="40px"/> | `65` | **Lazarus Instrumentality** | [Lazarus Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyLazarus) |   |
 | <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_genesis.png" alt="Garden of Genesis" width="40px"/> | `65` | **Garden of Genesis** | [Genesis Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyGenesis) |   |
+| <img src="https://github.com/SweetSweetGwendoline/NewWorld/blob/main/img/expeditions/expedition_lazarus.png" alt="Lazarus Instrumentality" width="40px"/> | `65` | **Lazarus Instrumentality** | [Lazarus Tuning Orb](https://nwdb.info/db/recipe/Recipe_KeyLazarus) |   |
 
 > Barkimedes (The wolf in front of Amrine Excavation) will give you Quests
 >
