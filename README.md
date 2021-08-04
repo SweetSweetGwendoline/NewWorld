@@ -355,6 +355,10 @@ https://www.newworld.com/de-de/support/server-status
 | [Parsley](https://nwdb.info/db/item/ParsleyT1) | Cutlass Keys | Edengrove | Mourningdale |
 | [Tarragon](https://nwdb.info/db/item/TarragonT1) | Brightwood | Reekwater | Brimstone Sands |
 
+
+
+# 📦 Provision Crates
+
 | Provision Crate |   |   |   |
 |:---|:---:|:---:|:---:|
 | [Salt](https://nwdb.info/db/item/SaltT1) | Everfall | Brightwood | Brimstone Sands |
