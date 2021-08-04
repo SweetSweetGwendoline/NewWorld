@@ -83,12 +83,12 @@ https://www.newworld.com/de-de/support/server-status
 
 ## 🛡️ Armoring
 
-| Armoring | Item | Level | Encumbrance |
-|:---|:---|:---:|:---:|
-| `Armoring 0` | [Bag (Tier II)](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) | `5`-`10` | +100 |
-| `Armoring 50` | [Bag (Tier III)](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) | `15`-`20` | +150 |
-| `Armoring 100` | [Bag (Tier IV)](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) | `35`-`40` | +225 |
-| `Armoring 150` | [Bag (Tier V)](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) | `55`-`60` | +300 |
+| Armoring | Item | Level | Encumbrance | Holding Rune |
+|:---|:---|:---:|:---:|:---:|
+| `Armoring 0` | [Bag (Tier II)](https://nwdb.info/db/items/armors/bag/page/1?tier=2&sort=gs_desc) | `5`-`10` | +100 | [Minor Rune of Holding (Tier II)](https://nwdb.info/db/item/HoldingRuneT2)<br/>*(1000 Token and 250 Gold)* |
+| `Armoring 50` | [Bag (Tier III)](https://nwdb.info/db/items/armors/bag/page/1?tier=3&sort=gs_desc) | `15`-`20` | +150 | [Major Rune of Holding (Tier III)](https://nwdb.info/db/item/HoldingRuneT3)<br/>*(3000 Token and 500 Gold)* |
+| `Armoring 100` | [Bag (Tier IV)](https://nwdb.info/db/items/armors/bag/page/1?tier=4&sort=gs_desc) | `35`-`40` | +225 | [Greater Rune of Holding (Tier IV)](https://nwdb.info/db/item/HoldingRuneT4)<br/>*(5000 Token and 1000 Gold)* |
+| `Armoring 150` | [Bag (Tier V)](https://nwdb.info/db/items/armors/bag/page/1?tier=5&sort=gs_desc) | `55`-`60` | +300 | [Grand Rune of Holding (Tier V)](https://nwdb.info/db/item/HoldingRuneT5)<br/>*(7500 Token and 1500 Gold)* |
 
 > Leveling Armoring
 >
