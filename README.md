@@ -340,11 +340,9 @@ https://www.newworld.com/de-de/support/server-status
 |:---|:---:|:---:|:---:|
 | [Garlic](https://nwdb.info/db/item/GarlicT1) | Everfall | Great Cleave | Brimstone Sands |
 | [Basil](https://nwdb.info/db/item/BasilT1) | Everfall | Brightwood | Brimstone Sands |
-| [Salt](https://nwdb.info/db/item/SaltT1) | Everfall | Brightwood | Brimstone Sands |
 | [Sage](https://nwdb.info/db/item/SageT1) | Everfall | Brightwood | Reekwater |
 | [Thyme](https://nwdb.info/db/item/ThymeT1) | Windsward | Ebonscale Reach | Reekwater |
 | [Ginger](https://nwdb.info/db/item/GingerT1) | Windsward | Ebonscale Reach | Reekwater |
-| [Sugar](https://nwdb.info/db/item/SugarT1) | Windsward | Ebonscale Reach | Reekwater |
 | [Mint](https://nwdb.info/db/item/MintT1) | Windsward | Weaver's Fen | Restless Shore |
 | [Nutmeg](https://nwdb.info/db/item/NutmegT1) | First Light | Weaver's Fen | Great Cleave |
 | [Dill](https://nwdb.info/db/item/DillT1) | First Light | Edengrove | Mourningdale |
@@ -356,6 +354,23 @@ https://www.newworld.com/de-de/support/server-status
 | [Rosemary](https://nwdb.info/db/item/RosemaryT1) | Weaver's Fen | Restless Shore | Great Cleav |
 | [Parsley](https://nwdb.info/db/item/ParsleyT1) | Cutlass Keys | Edengrove | Mourningdale |
 | [Tarragon](https://nwdb.info/db/item/TarragonT1) | Brightwood | Reekwater | Brimstone Sands |
+
+| Provision Crate |   |   |   |
+|:---|:---:|:---:|:---:|
+| [Salt](https://nwdb.info/db/item/SaltT1) | Everfall | Brightwood | Brimstone Sands |
+| [String Bean](https://nwdb.info/db/item/StringBeanT1) | Everfall | Ebonscale Reach | Reekwater |
+| [Coconut](https://nwdb.info/db/item/CoconutT1) | Windsward | Weaver's Fen | Restless Shore |
+| [Sugar](https://nwdb.info/db/item/SugarT1) | Windsward | Ebonscale Reach | Reekwater |
+| [Cauliflower](https://nwdb.info/db/item/CauliflowerT1) | First Light | Edengrove | Mourningdale |
+| [Onion](https://nwdb.info/db/item/OnionT1) | First Light | Edengrove | Cutlass Keys |
+| [Melon](https://nwdb.info/db/item/MelonT1) | First Light | Weaver's Fen | Great Cleave |
+| [Rice](https://nwdb.info/db/item/RiceT1) | Monarch's Bluffs | Shattered Mountain | Restless Shore |
+| [Tomato](https://nwdb.info/db/item/TomatoT1) | Monarch's Bluffs | Cutlass Keys | Mourningdale |
+| [Yeast](https://nwdb.info/db/item/YeastT1) | Monarch's Bluffs | Brightwood | Shattered Mountain |
+| [Apple](https://nwdb.info/db/item/AppleT1) | Brightwood | Reekwater | Brimstone Sands |
+| [Lemon](https://nwdb.info/db/item/LemonT1) | Weaver's Fen | Restless Shore | Great Cleave |
+| [Orange](https://nwdb.info/db/item/OrangeT1) | Cutlass Keys | Edengrove | Mourningdale |
+
 
 
 # 🎨 Pigments
