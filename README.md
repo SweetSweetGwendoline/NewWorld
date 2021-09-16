@@ -12,3 +12,4 @@ Thanks to
 - Tesh#2580 from https://TradesmansBible.com
 - NewWorldFans and StudioLoot from https://www.newworld-map.com/#/
 - Matsume https://www.reddit.com/user/Matsume1/
+- Purtis https://www.reddit.com/user/Putris/
