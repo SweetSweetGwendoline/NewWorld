@@ -13,3 +13,4 @@ Thanks to
 - NewWorldFans and StudioLoot from https://www.newworld-map.com/#/
 - Matsume https://www.reddit.com/user/Matsume1/
 - Purtis https://www.reddit.com/user/Putris/
+- Noaphiel https://www.reddit.com/user/Noaphiel/
