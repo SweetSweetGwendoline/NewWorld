@@ -6,7 +6,7 @@ See [Wiki](https://github.com/SweetSweetGwendoline/NewWorld/wiki)
 
 Thanks to
 
-- Xyo#3536 from https://nwdb.info/
+- Xyo from https://nwdb.info/
 - All the friendly people from nwdb discord
 - Tspoon#4743 from https://mapgenie.io/new-world/maps/aeternum
 - Mala Zedik#0001 from https://www.newworldpacifist.com/
